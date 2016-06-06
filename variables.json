@@ -1,0 +1,4 @@
+{
+  "http_proxy": "http://10.0.0.0:3128",
+  "https_proxy": "https://10.0.0.0.:3128"
+}
